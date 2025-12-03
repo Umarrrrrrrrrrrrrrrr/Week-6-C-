@@ -69,6 +69,18 @@ public class Program
         Console.WriteLine("Numbers greater than 10: ");
         m.ProcessNumbers(numbers, n => n > 10);
 
+
+
+        // Task 4: Using LINQ to process collections
+        Console.WriteLine("---------------------Task 4 Things----------------");
+        NumberProcessor np = new NumberProcessor();
+            BookStore bs = new BookStore();
+            StudentService ss = new StudentService();
+
+            np.SquareNumbers();
+            bs.FilterPremiumBooks();
+            ss.SortStudents();
+
     }
 }
 }
