@@ -1,0 +1,15 @@
+/Users/umarabdullaansari/Documents/Application Development - Dotnet/Class Work codes/dotnet main Ass/Week6_Ass/bin/Debug/net9.0/Week6_Ass
+/Users/umarabdullaansari/Documents/Application Development - Dotnet/Class Work codes/dotnet main Ass/Week6_Ass/bin/Debug/net9.0/Week6_Ass.deps.json
+/Users/umarabdullaansari/Documents/Application Development - Dotnet/Class Work codes/dotnet main Ass/Week6_Ass/bin/Debug/net9.0/Week6_Ass.runtimeconfig.json
+/Users/umarabdullaansari/Documents/Application Development - Dotnet/Class Work codes/dotnet main Ass/Week6_Ass/bin/Debug/net9.0/Week6_Ass.dll
+/Users/umarabdullaansari/Documents/Application Development - Dotnet/Class Work codes/dotnet main Ass/Week6_Ass/bin/Debug/net9.0/Week6_Ass.pdb
+/Users/umarabdullaansari/Documents/Application Development - Dotnet/Class Work codes/dotnet main Ass/Week6_Ass/obj/Debug/net9.0/Week6_Ass.GeneratedMSBuildEditorConfig.editorconfig
+/Users/umarabdullaansari/Documents/Application Development - Dotnet/Class Work codes/dotnet main Ass/Week6_Ass/obj/Debug/net9.0/Week6_Ass.AssemblyInfoInputs.cache
+/Users/umarabdullaansari/Documents/Application Development - Dotnet/Class Work codes/dotnet main Ass/Week6_Ass/obj/Debug/net9.0/Week6_Ass.AssemblyInfo.cs
+/Users/umarabdullaansari/Documents/Application Development - Dotnet/Class Work codes/dotnet main Ass/Week6_Ass/obj/Debug/net9.0/Week6_Ass.csproj.CoreCompileInputs.cache
+/Users/umarabdullaansari/Documents/Application Development - Dotnet/Class Work codes/dotnet main Ass/Week6_Ass/obj/Debug/net9.0/Week6_Ass.sourcelink.json
+/Users/umarabdullaansari/Documents/Application Development - Dotnet/Class Work codes/dotnet main Ass/Week6_Ass/obj/Debug/net9.0/Week6_Ass.dll
+/Users/umarabdullaansari/Documents/Application Development - Dotnet/Class Work codes/dotnet main Ass/Week6_Ass/obj/Debug/net9.0/refint/Week6_Ass.dll
+/Users/umarabdullaansari/Documents/Application Development - Dotnet/Class Work codes/dotnet main Ass/Week6_Ass/obj/Debug/net9.0/Week6_Ass.pdb
+/Users/umarabdullaansari/Documents/Application Development - Dotnet/Class Work codes/dotnet main Ass/Week6_Ass/obj/Debug/net9.0/Week6_Ass.genruntimeconfig.cache
+/Users/umarabdullaansari/Documents/Application Development - Dotnet/Class Work codes/dotnet main Ass/Week6_Ass/obj/Debug/net9.0/ref/Week6_Ass.dll
