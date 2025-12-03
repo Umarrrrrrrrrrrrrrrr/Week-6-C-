@@ -38,10 +38,24 @@ public class Program
         DiscountStrategy noDiscDel = methods.NoDiscount;
 
         // Apply discounts using delegates
-        Console.WriteLine("Original Price: " + price);
-        Console.WriteLine("Festival Discount Price: " + festDel(price));
-        Console.WriteLine("Seasonal Discount Price: " + seasDel(price));
-        Console.WriteLine("No Discount Price: " + noDiscDel(price));
+        // Console.WriteLine("Original Price: " + price);
+        // Console.WriteLine("Festival Discount Price: " + festDel(price));
+        // Console.WriteLine("Seasonal Discount Price: " + seasDel(price));
+        // Console.WriteLine("No Discount Price: " + noDiscDel(price));
+
+        Console.WriteLine("\n=== Part 2.1: Calculate Final Price using Delegate ===");
+        // 2.2 Calculate final prices using the method that accepts delegate
+        Console.WriteLine("Festival Discount: " + methods.CalculateFinalPrice(price, festDel));
+        Console.WriteLine("Seasonal Discount: " + methods.CalculateFinalPrice(price, seasDel));
+        Console.WriteLine("No Discount: " + methods.CalculateFinalPrice(price, noDiscDel));
+
+
+        Console.WriteLine("\n=== Part 2.3: Using Lambda Expressions for 30% Discount Strategy ===");
+
+        // 2.3 Using lambda expressions -> 30% discount
+        DiscountStrategy lamda30 = p => p * 0.7; 
+
+        Console.WriteLine("30% Lamda Discount: " + methods.CalculateFinalPrice(price, lamda30));
     }
 }
 }
