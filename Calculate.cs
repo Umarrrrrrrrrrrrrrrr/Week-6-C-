@@ -17,5 +17,8 @@ namespace Rectanglee
         public double FestivalDiscount(double price) => price * 0.8; // 20% discount
         public double SeasonalDiscount(double price) => price * 0.9; // 10
         public double NoDiscount(double price) => price; // no discount
+
+        // 2.1 Methods that accepts price + delegate
+        public double CalculateFinalPrice(double originalPrice, DiscountStrategy strategy) => strategy(originalPrice);
     }
 }
