@@ -56,6 +56,19 @@ public class Program
         DiscountStrategy lamda30 = p => p * 0.7; 
 
         Console.WriteLine("30% Lamda Discount: " + methods.CalculateFinalPrice(price, lamda30));
+
+
+        // Task 3: Using Func Delegate with Method
+        Method m = new Method();
+        int[] numbers = { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 };
+
+        Console.WriteLine("\n=== Task 3: Using Func Delegate with Method ===");
+        Console.WriteLine("Even numbers: ");
+        m.ProcessNumbers(numbers, n => n % 2 == 0); 
+
+        Console.WriteLine("Numbers greater than 10: ");
+        m.ProcessNumbers(numbers, n => n > 10);
+
     }
 }
 }
